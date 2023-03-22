@@ -7,5 +7,6 @@ A fictional website for food-based services
 -   [x] Design a modern interface
 -   [x] Implement accessibility support
 -   [x] Adapt design for mobile view
--   [x] Use JavaScript and CSS best practices
--   [x]
+-   [x] Utilize JavaScript for animations
+-   [x] Improve SEO
+-   [x] Utilize compression methods to slim-down the bundle sizes
